@@ -11,8 +11,6 @@ zoneName = "zone3"
 whichzone = "System Campus>SJC-24>3rd Floor"
 ZoneCountMemDB[whichzone] = 0;
 
-#whichzone = "System Campus>Shelby Store 612>Shelby 0612 Indoor>A14"
-
 app = Flask(__name__)
 
 
